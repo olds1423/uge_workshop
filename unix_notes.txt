@@ -1,3 +1,4 @@
+# Changes
 # Pipe output of history to the pager less
 history | less
 # Clear visual print out
