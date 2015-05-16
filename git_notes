@@ -1,0 +1,20 @@
+Repository ((or repo) is a collection of things you care about)
+Has to have a home (git init)
+First word after director is the Branch
+ls -a (view the secret directory beginning with a .)
+git status
+git add
+git commit (head means last or commit) ( its best to be able to summarize your commit into a sentence or two )
+git commit -m “add notes inside”
+Everything you commit adds to a in the string or chain of commitments
+git log shows you what “circles" or parts of your chain you have
+git ll (long version of the log)
+git diff (shows changes made)
+creating a file with touch funny_notes.txt
+git mv funny_notes.txt serious_notes.txt (changes the name of the file to the second)
+
+Branch(es)
+git branch git-notes (git-notes in this example)
+git branch (displays branches)
+git checkout git-notes (changes to git-notes branches)
+(touch creates a new unix file)
