@@ -1,0 +1,162 @@
+# Pipe output of history to the pager less
+history | less
+# Clear visual print out
+clear
+# Reverse the order of the history output
+history | tail -r
+# Display history
+history
+# change directories one level back
+cd ..
+ls ...
+cd ...
+# changing directories, attempting to find a directory with more inside
+cd Cookies/
+# list items in the current directory
+ls
+cd Library/
+cd l
+cd /users/Drone/
+# change directory back to home
+cd ~
+ls ~
+cd /
+cd .
+clear
+cd..
+cd Caches/
+cd
+# print working directory
+pwd
+cd fonts
+cd Applications/
+cd src
+ls -l
+ls - l
+ls
+cd ~
+cd !
+ls -a
+ls -tZ
+ls -tz
+man ls
+man
+/help
+ls -lrt
+ls -rt
+ls /rt
+/r
+ls -lt
+ls -t
+list
+cd
+cd/
+cd /c
+git config user.name
+brew install git
+subl /etc/paths
+subl /et
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'olds1423@gmail.com'
+git config --global user.name 'olds1423'
+git config --global user.name 'Chris Olds'
+pl
+curl -fsSL http://git.io/QxUaOQ | sh
+git config --global user.email 'YOUR EMAIL ADDRESS'
+git config --global user.name 'YOUR FULL NAME'
+git --version
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+brew in
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+sudo ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+/Users/Drone ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ls -g
+uname
+ls -tr | less
+ls -t | less
+ls -t
+ls
+history > moving_around.txt
+history | less
+clear
+history | tail -r
+history
+cd ..
+ls ...
+cd ...
+cd Cookies/
+cd Library/
+cd l
+cd /users/Drone/
+cd ~
+ls ~
+cd /
+cd .
+clear
+cd..
+cd Caches/
+cd
+pwd
+cd fonts
+cd Applications/
+cd src
+ls -l
+ls - l
+ls
+cd ~
+cd !
+ls -a
+ls -tZ
+ls -tz
+man ls
+man
+/help
+ls -lrt
+ls -rt
+ls /rt
+/r
+ls -lt
+list
+cd
+cd/
+cd /c
+git config user.name
+brew install git
+subl /etc/paths
+subl /et
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'olds1423@gmail.com'
+git config --global user.name 'olds1423'
+git config --global user.name 'Chris Olds'
+pl
+curl -fsSL http://git.io/QxUaOQ | sh
+git config --global user.email 'YOUR EMAIL ADDRESS'
+git config --global user.name 'YOUR FULL NAME'
+git --version
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+brew in
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+sudo ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+/Users/Drone ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ls -g
+uname
